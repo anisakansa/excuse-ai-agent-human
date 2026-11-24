@@ -1,0 +1,1 @@
+{"description":"The excuse an AI agent gives its human — one line, written by a program to /output/entry.txt","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"excuse-ai-agent-human","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
